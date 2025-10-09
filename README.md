@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Diego%20Pérez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Diego%20Pérez&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descAlign=50" />
 </div>
 
-<h3 align="center">🚀 Passionate about creating seamless digital experiences from frontend to backend</h3>
+<h6 align="center">"Passionate about creating seamless digital experiences from frontend to backend"</h6>
 
 <p align="center">
   <a href="https://diego-perez.es" target="_blank">
@@ -16,18 +16,14 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=perezm4&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views" />
-</p>
 
----
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
 ```typescript
 const diego = {
     role: "Full-Stack Developer",
-    location: "Spain 🇪🇸",
+    location: "Reykjavik, Iceland 🇮🇸",
     portfolio: "diego-perez.es",
     currentFocus: "Game Development",
     
@@ -48,12 +44,11 @@ const diego = {
         tools: ["Git", "Webpack", "Vite", "Jest", "Postman"]
     },
     
-    currentlyLearning: "Game Development 🎮",
-    funFact: "I turn coffee into code ☕ → 💻"
+    currentlyLearning: "Game Development 🎮"
 };
 ```
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -88,10 +83,6 @@ const diego = {
 
 </div>
 
----
-
-### 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perezm4/perezm4/output/github-contribution-grid-snake-dark.svg">
@@ -100,15 +91,16 @@ const diego = {
   </picture>
 </div>
 
----
-
 ### 📫 Let's Connect
 
 <div align="center">
   
-  **Currently working on:** 🎮 Game Development  
-  **Open to:** Full-Stack Development opportunities  
-  **Portfolio:** [diego-perez.es](https://diego-perez.es)
+  **Currently working on:**  
+  🎮 Personal Project - 2D Isometric Pixel Art Survival Game  
+  💼 Professional - Web Development for Businesses  
+  🏪 Retail System - POS & Inventory Management (Iceland)
+  
+  **Open to:** Full-Stack Development opportunities
   
   <br/>
   
@@ -116,14 +108,4 @@ const diego = {
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoperezmartinez/)
   [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoperezmartinez40@gmail.com)
   
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <i>⚡ Fun fact: The best code is the code that doesn't need to be written</i>
 </div>
